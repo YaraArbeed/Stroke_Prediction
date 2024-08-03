@@ -1,2 +1,2 @@
 # Stroke_Prediction
-Stroke prediction using different ML algorithms
+This project focuses on predicting stroke occurrence using machine learning. The dataset underwent rigorous preprocessing, including outlier detection, handling missing values, feature engineering, and scaling. To address class imbalance, SMOTE was applied. Seven classification models (RFC, KNN, DTC, SVM, XGBoost, Logistic Regression, Naive Bayes) were implemented and compared.
